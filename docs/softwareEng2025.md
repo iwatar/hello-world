@@ -1,3 +1,9 @@
+---
+Layout: page
+title: "software Eng. lecture note"
+permalink: /docs/softwareEng2025
+---
+
 # 第1回
 ソフトウェア工学の難しい所<br>
 - イメージが湧きにくい
