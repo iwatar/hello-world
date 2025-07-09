@@ -2,6 +2,7 @@
 Layout: page
 title: "software Eng. lecture note"
 permalink: /docs/softwareEng2025
+#link:https://iwatar.github.io/hello-world/docs/
 ---
 
 # 第1回
@@ -118,3 +119,15 @@ WBS-Work Breakdown Structure:<br>
 - 大きな作業をグループ化する<br>
 - 各グループの相互関係を考える<br>
 - 各グループの作業をもれなくダブりなく洗い出す
+
+
+# 第7回
+コーディング：<br>
+　コードは書くより読まれることの方が多い->ソフトウェア開発に当たり読みやすいコードを書くことは必須、他人にも自分にも読みやすいルール<br>
+　作法も色々ある。授業ではPythonのPEP8について学んだ。<br>
+　また、Linter(チェックツール)を実際に使うこともした。<br>
+
+# 第8回
+バージョン管理：<br>
+
+
